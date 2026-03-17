@@ -1,16 +1,3 @@
 import comp from "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/docs/.vuepress/.temp/pages/guide/index.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/\",\"title\":\"Pagina central da sessão\",\"lang\":\"en-US\",\"frontmatter\":{},\"git\":{},\"filePathRelative\":\"guide/README.md\"}")
+const data = JSON.parse("{\"path\":\"/guide/\",\"title\":\"Pagina central da sessão\",\"lang\":\"en-US\",\"frontmatter\":{},\"git\":{\"updatedTime\":1773711584000,\"contributors\":[{\"name\":\"Eduardo Basquiat\",\"username\":\"\",\"email\":\"flatbed@tutanota.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"6bafb3deddb9cb6633f600606c15c5b4067509cc\",\"time\":1773711584000,\"email\":\"flatbed@tutanota.com\",\"author\":\"Eduardo Basquiat\",\"message\":\"First commit\"}]},\"filePathRelative\":\"guide/README.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
