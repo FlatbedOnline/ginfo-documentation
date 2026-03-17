@@ -1,6 +1,7 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { router } from '../router.js'
 
 export default defineUserConfig({
   base: '/',
@@ -14,13 +15,7 @@ export default defineUserConfig({
 
     navbar: ['/', '/get-started'],
     
-    sidebar: 
-      [
-        '/get-started',
-        '/guide/install',
-        '/guide/config'
-      ]
-       
+    sidebar: router             
   }),
 
   bundler: viteBundler()
