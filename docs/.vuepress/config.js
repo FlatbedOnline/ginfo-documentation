@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  base: '/ginfo-documentation/',
+  base: '/',
   lang: 'en-US',
 
   title: 'VuePress',
