@@ -1,5 +1,0 @@
-import "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/node_modules/@vuepress/highlighter-helper/dist/client/styles/base.css"
-import "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/node_modules/@vuepress/plugin-prismjs/dist/client/styles/nord.css"
-import "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/node_modules/@vuepress/highlighter-helper/dist/client/styles/line-numbers.css"
-import "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/node_modules/@vuepress/highlighter-helper/dist/client/styles/notation-highlight.css"
-import "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/node_modules/@vuepress/highlighter-helper/dist/client/styles/code-block-title.css"
