@@ -19,3 +19,6 @@ R: **checklist ok **
 # P: Como cadastrar um colaborador?
 R: **Iniciar cadastro na tela RH:COLABORADORES>CADASTROS>COLABORADORES(SIMPLES)**
 
+# P:Como bater o ponto?
+
+
