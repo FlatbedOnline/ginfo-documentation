@@ -13,4 +13,5 @@ R: **O BI é apenas um relatório dos dados do Ginfo, então se filtrar pela dat
 # P: TESTE TESTE AJUSTADO 4
 R: TESTES
 
-
+# Checklist 
+R: **checklist ok**
