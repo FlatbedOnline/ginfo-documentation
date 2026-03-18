@@ -1,5 +1,5 @@
-import { GitContributors } from "C:/Documentação GINFO/ginfo-documentation/node_modules/@vuepress/plugin-git/dist/client/components/GitContributors.js";
-import { GitChangelog } from "C:/Documentação GINFO/ginfo-documentation/node_modules/@vuepress/plugin-git/dist/client/components/GitChangelog.js";
+import { GitContributors } from "/home/carlos-eduardo/Documents/ginfo-documentation/node_modules/@vuepress/plugin-git/dist/client/components/GitContributors.js";
+import { GitChangelog } from "/home/carlos-eduardo/Documents/ginfo-documentation/node_modules/@vuepress/plugin-git/dist/client/components/GitChangelog.js";
 
 export default {
   enhance: ({ app }) => {
