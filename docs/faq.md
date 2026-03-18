@@ -15,3 +15,7 @@ R: TESTES
 
 # Checklist 
 R: **checklist ok **
+
+# P: Como cadastrar um colaborador?
+R: **Iniciar cadastro na tela RH:COLABORADORES>CADASTROS>COLABORADORES(SIMPLES)**
+
