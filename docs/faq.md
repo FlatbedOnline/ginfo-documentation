@@ -9,3 +9,8 @@ O padrão aqui segue:
 
 # P: Pode retirar colaboradores desativados do BI?
 R: **O BI é apenas um relatório dos dados do Ginfo, então se filtrar pela data em que o colaborador estava ativado, ele ira aparecer nele.  
+
+# P: TESTE TESTE
+R: TESTES
+
+
