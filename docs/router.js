@@ -1,6 +1,7 @@
 
 export const router = [
-  '/index',
-  '/pneus',
-  '/faq'
+	'/index',
+	'/pneus',
+	'/stresstest',
+	'/faq'
 ]
