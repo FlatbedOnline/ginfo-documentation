@@ -13,7 +13,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: 'https://i9ss.com.br/wp-content/uploads/2024/10/Logos-Inove-500-x-250-px.png',
 
-    navbar: ['/', '/get-started'],
+    navbar: ['/', ],
     
     sidebar: router             
   }),
