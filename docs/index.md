@@ -2,4 +2,28 @@
 
 Nessa documentação será abordado tutoriais, FAQs e atualizações frequentes.
 
-Qualquer dúvida, contactar carlos.eduardo@i9ss.com.br
+Abaixo um simples tutorial de markdown.
+
+```shell
+# Titulo maior
+
+## Subtitulo
+
+### sub-sub titulo
+
+*itálico*
+
+**bold**
+
+--- ← assim cria separação de linha
+
+[link](www.url.com) ← assim cria links clicaveis
+
+```
+
+Caso a especificação acima não seja suficiente, você pode [clicar aqui](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) para ver um tutorial mais bem detalhado!
+
+---
+
+Qualquer dúvida, entre em contato com: `carlos.eduardo@i9ss.com.br`
+
