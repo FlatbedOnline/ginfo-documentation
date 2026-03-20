@@ -11,6 +11,8 @@ R: O BI é apenas um relatório dos dados do Ginfo, então se filtrar pela data 
 
 R: Iniciar cadastro na tela `RH:COLABORADORES>CADASTROS>COLABORADORES(SIMPLES)`
 
+## Pode excluir contestação em CIVF?
 
+Não estamos autorizados a isso. Esse tipo de situação deve ser encaminhada ao **Jean**.
 
 
