@@ -15,4 +15,6 @@ R: Iniciar cadastro na tela `RH:COLABORADORES>CADASTROS>COLABORADORES(SIMPLES)`
 
 Não estamos autorizados a isso. Esse tipo de situação deve ser encaminhada ao **Jean**.
 
+## Como coloco manobristas para realizar GSDPQ?
 
+Somente ajudantes e motoristas fazem GSDPQ no momento.
