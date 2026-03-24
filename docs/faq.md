@@ -18,3 +18,8 @@ Não estamos autorizados a isso. Esse tipo de situação deve ser encaminhada ao
 ## Como coloco manobristas para realizar GSDPQ?
 
 Somente ajudantes e motoristas fazem GSDPQ no momento.
+
+
+## Onde inativar veículos ou paleteiras?
+
+`FROTA:DOCUMENTAÇÃO > CADASTROS > VEÍCULOS X FILIAIS | QR CODE`, selecione a opção "inativar placa" em "O que deseja."
