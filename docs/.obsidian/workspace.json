@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faq.md",
+                "file": "stresstest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faq"
+              "title": "stresstest"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "ffae35f41b10b205",
   "lastOpenFiles": [
-    "index.md",
-    "stresstest.md",
-    "faq.md",
     "pneus.md",
+    "index.md",
+    "faq.md",
+    "stresstest.md",
     "2026-03-18.md",
     "Pneus.md"
   ]
