@@ -23,3 +23,9 @@ Somente ajudantes e motoristas fazem GSDPQ no momento.
 ## Onde inativar veículos ou paleteiras?
 
 `FROTA:DOCUMENTAÇÃO > CADASTROS > VEÍCULOS X FILIAIS | QR CODE`, selecione a opção "inativar placa" em "O que deseja."
+
+
+## Onde cadastro marcas de itens variados no sistema?
+
+`FROTA:DOCUMENTAÇÃO > PARAMETROS > MARCAS VEÍCULOS`
+Apesar do nome, aparentemente a tela "Marcas Veículos" também registra marcas variadas.
