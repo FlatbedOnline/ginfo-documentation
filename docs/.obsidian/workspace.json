@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faq.md",
+                "file": "disponibilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faq"
+              "title": "disponibilidade"
             }
           }
         ],
@@ -225,12 +225,12 @@
   },
   "active": "e3b04e89dc428d6a",
   "lastOpenFiles": [
+    "faq.md",
     "index.md",
     "pneus.md",
     "stresstest.md",
-    "Disponibilidade 1.md",
+    "disponibilidade.md",
     "Pneus.md",
-    "Disponibilidade.md",
-    "faq.md"
+    "Disponibilidade.md"
   ]
 }
