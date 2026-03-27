@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "68b2a971ba31ed79",
+    "id": "604c276d21890e42",
     "type": "split",
     "children": [
       {
-        "id": "9b6211e8114efeba",
+        "id": "24710f3dfeb36908",
         "type": "tabs",
         "children": [
           {
-            "id": "558224458e05311a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "faq.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "faq"
-            }
-          },
-          {
-            "id": "891ce6fdfc83efe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "faq.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "faq"
-            }
-          },
-          {
-            "id": "e3b04e89dc428d6a",
+            "id": "ffae35f41b10b205",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,22 +21,21 @@
               "title": "disponibilidade"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8ef78dbaa30b5a5a",
+    "id": "694324863ef9706b",
     "type": "split",
     "children": [
       {
-        "id": "3909746a01120581",
+        "id": "a8b9fe0ad71cf81f",
         "type": "tabs",
         "children": [
           {
-            "id": "ec05b4eef06c1545",
+            "id": "cbb4890ea2aed983",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
-            "id": "19a15a81c27d8126",
+            "id": "7cd5d7227452ae11",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "c93e16aa1179f6d2",
+            "id": "9c786da78dd41d90",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "5fabd11efc9f5a50",
+    "id": "fe1d88cd9a1a2957",
     "type": "split",
     "children": [
       {
-        "id": "07acc9768c98285e",
+        "id": "8c38903509acdbbe",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a2c6edc4af49be",
+            "id": "1be78a0d570b5a9d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -137,7 +108,7 @@
             }
           },
           {
-            "id": "5b6ef3ce146bd188",
+            "id": "3929e56e2db86cf7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -151,7 +122,7 @@
             }
           },
           {
-            "id": "41291f42b803a03c",
+            "id": "49de4c18dc514f59",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "bb77fa4f735f6652",
+            "id": "bb5230fa29c042ae",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,7 +151,7 @@
             }
           },
           {
-            "id": "9b2306ead4b14cd3",
+            "id": "d1f8c99d2326d521",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -193,44 +164,33 @@
               "icon": "lucide-list",
               "title": "Outline of faq"
             }
-          },
-          {
-            "id": "420bac230155f7f6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "e3b04e89dc428d6a",
+  "active": "ffae35f41b10b205",
   "lastOpenFiles": [
-    "faq.md",
-    "index.md",
     "pneus.md",
-    "stresstest.md",
+    "faq.md",
     "disponibilidade.md",
-    "Pneus.md",
-    "Disponibilidade.md"
+    "index.md",
+    "stresstest.md",
+    "2026-03-18.md",
+    "Pneus.md"
   ]
 }

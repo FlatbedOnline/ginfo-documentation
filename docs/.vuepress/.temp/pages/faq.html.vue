@@ -8,6 +8,11 @@
 <p>Não estamos autorizados a isso. Esse tipo de situação deve ser encaminhada ao <strong>Jean</strong>.</p>
 <h2 id="como-coloco-manobristas-para-realizar-gsdpq" tabindex="-1"><a class="header-anchor" href="#como-coloco-manobristas-para-realizar-gsdpq"><span>Como coloco manobristas para realizar GSDPQ?</span></a></h2>
 <p>Somente ajudantes e motoristas fazem GSDPQ no momento.</p>
+<h2 id="onde-inativar-veiculos-ou-paleteiras" tabindex="-1"><a class="header-anchor" href="#onde-inativar-veiculos-ou-paleteiras"><span>Onde inativar veículos ou paleteiras?</span></a></h2>
+<p><code v-pre>FROTA:DOCUMENTAÇÃO &gt; CADASTROS &gt; VEÍCULOS X FILIAIS | QR CODE</code>, selecione a opção &quot;inativar placa&quot; em &quot;O que deseja.&quot;</p>
+<h2 id="onde-cadastro-marcas-de-itens-variados-no-sistema" tabindex="-1"><a class="header-anchor" href="#onde-cadastro-marcas-de-itens-variados-no-sistema"><span>Onde cadastro marcas de itens variados no sistema?</span></a></h2>
+<p><code v-pre>FROTA:DOCUMENTAÇÃO &gt; PARAMETROS &gt; MARCAS VEÍCULOS</code>
+Apesar do nome, aparentemente a tela &quot;Marcas Veículos&quot; também registra marcas variadas.</p>
 </div></template>
 
 
