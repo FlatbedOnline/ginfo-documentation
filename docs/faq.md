@@ -8,24 +8,31 @@ R: O BI é apenas um relatório dos dados do Ginfo, então se filtrar pela data 
 
 
 ## Como cadastrar um colaborador?
-
 R: Iniciar cadastro na tela `RH:COLABORADORES>CADASTROS>COLABORADORES(SIMPLES)`
 
 ## Pode excluir contestação em CIVF?
-
 Não estamos autorizados a isso. Esse tipo de situação deve ser encaminhada ao **Jean**.
 
 ## Como coloco manobristas para realizar GSDPQ?
-
 Somente ajudantes e motoristas fazem GSDPQ no momento.
 
 
 ## Onde inativar veículos ou paleteiras?
-
 `FROTA:DOCUMENTAÇÃO > CADASTROS > VEÍCULOS X FILIAIS | QR CODE`, selecione a opção "inativar placa" em "O que deseja."
 
 
 ## Onde cadastro marcas de itens variados no sistema?
-
 `FROTA:DOCUMENTAÇÃO > PARAMETROS > MARCAS VEÍCULOS`
 Apesar do nome, aparentemente a tela "Marcas Veículos" também registra marcas variadas.
+
+
+## Como cadastrar veículos/emplacados
+`FROTA DOCUMENTAÇÃO > CADASTRO > VEÍCULOS`
+Preencha todos os campos que possuem destaque em cor escura.
+Após clicar em Salvar, caso algum campo obrigatório não tenha sido preenchido, o sistema emitirá um alerta.
+
+
+## Como gerar QR CODE
+O sistema permite a geração por dois caminhos:
+No próprio cadastro de veículos, através da aba QR CODE.
+Ou acessando: FROTA DOCUMENTAÇÃO > CADASTRO > VEÍCULOS X FILIAIS. Clique em CADASTRO e selecione a opção GERAR QR CODE. Informe a filial e a placa, clique em Consultar e, em seguida, selecione o botão azul GERAR QR CODE.
