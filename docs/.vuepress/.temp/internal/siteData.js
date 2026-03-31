@@ -1,1 +1,0 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Suporte Ginfo - Documentação\",\"description\":\"Portal de duvidas e respostas para a equipe do Ginfo\",\"head\":[],\"locales\":{}}")

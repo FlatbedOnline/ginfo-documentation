@@ -1,3 +1,0 @@
-import comp from "/home/eduardo-basquiat/Documents/inove-doc/ginfo-documentation/vuepress-starter/docs/.vuepress/.temp/pages/guide/config.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/config.html\",\"title\":\"Segundo teste de routing.\",\"lang\":\"en-US\",\"frontmatter\":{},\"git\":{\"updatedTime\":1773711584000,\"contributors\":[{\"name\":\"Eduardo Basquiat\",\"username\":\"\",\"email\":\"flatbed@tutanota.com\",\"commits\":1}],\"changelog\":[{\"hash\":\"6bafb3deddb9cb6633f600606c15c5b4067509cc\",\"time\":1773711584000,\"email\":\"flatbed@tutanota.com\",\"author\":\"Eduardo Basquiat\",\"message\":\"First commit\"}]},\"filePathRelative\":\"guide/config.md\"}")
-export { comp, data }
