@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "disponibilidade.md",
+                "file": "faq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "disponibilidade"
+              "title": "faq"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "ffae35f41b10b205",
   "lastOpenFiles": [
+    "disponibilidade.md",
     "pneus.md",
     "faq.md",
-    "disponibilidade.md",
     "index.md",
     "stresstest.md",
     "2026-03-18.md",
