@@ -48,3 +48,14 @@ Após clicar em Salvar, caso algum campo obrigatório não tenha sido preenchido
 O sistema permite a geração por dois caminhos:
 No próprio cadastro de veículos, através da aba QR CODE.
 Ou acessando: FROTA DOCUMENTAÇÃO > CADASTRO > VEÍCULOS X FILIAIS. Clique em CADASTRO e selecione a opção GERAR QR CODE. Informe a filial e a placa, clique em Consultar e, em seguida, selecione o botão azul GERAR QR CODE.
+
+## Como liberar no cadastro do colaborador a opção FROTA 
+
+Após realizar o cadastro com os dados pessoais do colaborador, caso ele
+tenha alguma função que necessita atender autonomia de frota, checklist
+paleteira ou inventário, é necessário que selecione a opção “SIM” no respectivo
+campo de atuação.Lembrando - O PIS e o PROMAX são
+obrigatórios principalmente
+para funções relacionadas á
+checklist. Pode impactar na aderência.
+Ao finlziar clique em SALVAR.
