@@ -18,7 +18,8 @@ veículo.
 
 Para realizar a blitz de trajeto é necessário abrir o aplicativo de checklist, disponível
 na google play ou app store.
-[App Android] (https://play.google.com/store/apps/details?id=br.com.inovess.ginfochecklistnew) App IOS: https://apps.apple.com/br/app/ginfo-checklist/id6475606104
+[App Android](https://play.google.com/store/apps/details?id=br.com.inovess.ginfochecklistnew) 
+[App IOS](https://apps.apple.com/br/app/ginfo-checklist/id6475606104-)
 O app deve ser acessado com os dados de: 
 Empresa 
 Matrícula 
@@ -32,12 +33,12 @@ para realizar a blitz
 - Verifique se a placa está
 correta. Se não estiver, clique em editar e
 ajuste.Inicie o checklist.
-3- Realize o checklist informando ok ou nok para as perguntas
-4- Em caso de nok, a
+-  Realize o checklist informando ok ou nok para as perguntas
+-  Em caso de nok, a
 observação deve ser
 informada detalhando
 o problema.
-6- Revise as
+-  Revise as
 respostas
 5- Após as perguntas,
 se desejar adicione
