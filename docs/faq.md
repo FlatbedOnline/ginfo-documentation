@@ -5,6 +5,13 @@ Aqui você encontra perguntas frequentes que os clientes --ou até mesmo o próp
 ## Pode retirar colaboradores desativados do BI?
 O BI é apenas um relatório dos dados do Ginfo, então se filtrar pela data em que o colaborador estava ativado, ele ira aparecer nele.  
 
+## Como cadastrar FORNECEDORES
+Caminho: FROTA > MANUTENÇÃO > CADASTROS > FORNECEDORES
+Informe o nome fantasia ou a razão social do fornecedor, juntamente com o CNPJ.
+Para editar, clique em LISTA, informe o nome ou CNPJ e clique em Consultar. Em seguida, clique no botão laranja de edição.
+Role a página até o final e vincule o fornecedor à sua filial clicando na seta azul para a direita.
+Observação: As filiais listadas do lado ESQUERDO não possuem o fornecedor vinculado; apenas as que estiverem do lado DIREITO terão o acesso liberado.
+
 
 ## Como cadastrar colaboradores 
 Localize a tela RH COLABORADORES > CADASTRO > COLABORADORES (SIMPLES)-Comece preenchendo os campos em azul, como o CPF, nome completo, filial e
