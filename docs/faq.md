@@ -6,8 +6,14 @@ Aqui você encontra perguntas frequentes que os clientes --ou até mesmo o próp
 O BI é apenas um relatório dos dados do Ginfo, então se filtrar pela data em que o colaborador estava ativado, ele ira aparecer nele.  
 
 
-## Como cadastrar um colaborador?
-Iniciar cadastro na tela `RH:COLABORADORES>CADASTROS>COLABORADORES(SIMPLES)`
+## Como cadastrar colaboradores 
+Localize a tela RH COLABORADORES > CADASTRO > COLABORADORES (SIMPLES)-Comece preenchendo os campos em azul, como o CPF, nome completo, filial e
+empresa. Lembrando Os campos em
+azul é obrigatório
+o preenchimento - Por fim, lembre de salvar as informações de cadastro. Caso apareça alguma mensagem de “erro” ao salvar,
+verifique novamente se todas as informações foram
+preenchidas corretamente, ou se existe algum colaborador
+desligado com o mesmo dado informado.
 
 ## Pode excluir contestação em CIVF?
 Não estamos autorizados a isso. Esse tipo de situação deve ser encaminhada ao **Jean**.
