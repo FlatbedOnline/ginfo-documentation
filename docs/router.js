@@ -8,5 +8,8 @@ export const router = [
 	'/estoque',
 	'/stresstest',
 	'/disponibilidade',
+	'/relatos',
+	'/terminal-de-oficina',
+	'/aplicativo-checklist',
 	'/faq'
 ]
