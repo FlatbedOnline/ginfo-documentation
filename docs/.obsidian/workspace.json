@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blitz-de-trajeto.md",
+                "file": "faq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blitz-de-trajeto"
+              "title": "faq"
             }
           }
         ],
@@ -211,9 +211,9 @@
   },
   "active": "891ce6fdfc83efe0",
   "lastOpenFiles": [
+    "blitz-de-trajeto.md",
     "dto.md",
     "power-bi.md",
-    "blitz-de-trajeto.md",
     "faq.md",
     "estoque.md",
     "index.md",

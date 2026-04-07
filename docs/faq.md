@@ -59,3 +59,15 @@ obrigatórios principalmente
 para funções relacionadas á
 checklist. Pode impactar na aderência.
 Ao finlziar clique em SALVAR.
+
+## COMO ACESSAR O APLICATIVO CHECKLIST 
+
+Baixe o aplicativo de checklist que esta disponível
+na google play ou app store.
+[App Android](https://play.google.com/store/apps/details?id=br.com.inovess.ginfochecklistnew)
+[App IOS](https://apps.apple.com/br/app/ginfo-checklist/id6475606104)
+O app deve ser acessado com os dados de: 
+Empresa 
+Matrícula 
+CPF
+Caso não saiba qual é sua matricula, pode estar solicitando para seu superior. 
