@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faq.md",
+                "file": "estoque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faq"
+              "title": "estoque"
             }
           }
         ],
@@ -211,10 +211,10 @@
   },
   "active": "891ce6fdfc83efe0",
   "lastOpenFiles": [
+    "faq.md",
     "blitz-de-trajeto.md",
     "dto.md",
     "power-bi.md",
-    "faq.md",
     "estoque.md",
     "index.md",
     "pneus.md",
