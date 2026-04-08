@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "power-bi.md",
+                "file": "pneus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "power-bi"
+              "title": "pneus"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "891ce6fdfc83efe0",
   "lastOpenFiles": [
+    "power-bi.md",
     "blitz-de-trajeto.md",
     "faq.md",
     "disponibilidade.md",
@@ -218,7 +219,6 @@
     "stresstest.md",
     "relatos.md",
     "aplicativo-checklist.md",
-    "power-bi.md",
     "estoque.md",
     "dto.md",
     "index.md",
