@@ -71,3 +71,8 @@ Empresa
 Matrícula 
 CPF
 Caso não saiba qual é sua matricula, pode estar solicitando para seu superior. 
+
+
+## Quantos dias para aderência na blitz de segurança?
+60 dias para todos os veículos.
+
