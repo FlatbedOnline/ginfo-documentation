@@ -1,6 +1,6 @@
 # Blitz de Trajeto
 
-## COMO REALZIAR BLITZ DE TRAJETO
+## COMO ATUALIZAR VIZUALIZAR BLITZ DE TRAJETO GINFO
 
 Antes de realizar a blitz de trajeto, é necessário verificar se os colaboradores
 estão cadastrados, (RH COLABORADORES > CADASTROS > COLABORADORES
@@ -40,7 +40,7 @@ informada detalhando
 o problema.
 -  Revise as
 respostas
-5- Após as perguntas,
+-  Após as perguntas,
 se desejar adicione
 fotos e observação.
-7- Finalize 
+-  Finalize 
