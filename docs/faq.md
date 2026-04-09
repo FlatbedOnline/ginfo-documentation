@@ -76,3 +76,9 @@ Caso não saiba qual é sua matricula, pode estar solicitando para seu superior.
 ## Quantos dias para aderência na blitz de segurança?
 60 dias para todos os veículos.
 
+## Como cadastrar itens pelo aplicado CHECKLIST
+Caso o item que procura não está na lista, pode cadastrar segundo o processo
+abaixo.
+- Selecione o item
+- Selecione o item e a quantidade
+- Salvar
