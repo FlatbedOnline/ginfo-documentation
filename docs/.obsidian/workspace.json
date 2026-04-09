@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aplicativo-checklist.md",
+                "file": "estoque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aplicativo-checklist"
+              "title": "estoque"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "891ce6fdfc83efe0",
   "lastOpenFiles": [
+    "aplicativo-checklist.md",
     "faq.md",
     "pneus.md",
     "power-bi.md",
@@ -220,7 +221,6 @@
     "terminal-de-oficina.md",
     "stresstest.md",
     "relatos.md",
-    "aplicativo-checklist.md",
     "estoque.md",
     "dto.md",
     "Pneus.md",
