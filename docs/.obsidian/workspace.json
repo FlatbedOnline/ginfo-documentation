@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relatos.md",
+                "file": "faq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relatos"
+              "title": "faq"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "891ce6fdfc83efe0",
   "lastOpenFiles": [
+    "relatos.md",
     "estoque.md",
     "aplicativo-checklist.md",
     "faq.md",
@@ -221,7 +222,6 @@
     "disponibilidade.md",
     "terminal-de-oficina.md",
     "stresstest.md",
-    "relatos.md",
     "dto.md",
     "Pneus.md",
     "2026-03-18.md",

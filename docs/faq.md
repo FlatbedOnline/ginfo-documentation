@@ -82,3 +82,30 @@ abaixo.
 - Selecione o item
 - Selecione o item e a quantidade
 - Salvar
+
+
+## Como solicitar acesso ao Ginfo
+
+ACESSANDO A PLATAFORMA Ginfo
+
+Para solicitar um usuário, a primeira coisa que deve fazer é acessar o link
+abaixo no seu navegador:
+https://ginfo.inovess.com.br/ 
+Clique em CRIAR USUARIO 
+Para realizar a solicitação, preencha corretamente todos os campos
+- Informe seu nome completo
+- Preencha seu CPF e matrícula
+- Selecione a empresa e filial 
+- Digite seu email corporativo
+- Preencha com o seu telefone
+- Selecione sua função dentro da empresa
+Após Clique em enviar solicitação
+Time do suporte estará recebendo seu solicitado e analisando e liberando.
+Logo após, uma mensagem será enviada ao email informado na solicitação
+com os dados de acesso (login e senha)
+Abra novamente o Ginfo , informe nome da empresa, email e senh ainformada no email.
+Clique em ENTRAR 
+Após o primeiro acesso, o sistema vai direcionar para a tela abaixo para
+criação de nova senha.
+Informe a senha com bases nos requisitos descritos em vermelho. 
+Selecione alterar senha
