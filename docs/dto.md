@@ -11,3 +11,10 @@ colaborador, informe
 qual deles recebe o nok Carregando o conteúdo para leitores de tela - 10- Informe a ação que será
 realizada, obrigatório. Adicione fotos se desejar - 11- Revise as
 respostas e finalize.
+
+# Como realizar DTO
+
+## Pergunta principal
+
+Acesse o aplicativo de checklist e siga o passo a passo: localize o módulo de segurança, selecione o DTO, clique em REALIZAR DTO, escolha o DTO desejado, selecione filial, grupo DTO e tipo de DTO, adicione até 3 colaboradores no “+”, inicie, marque OK ou NOK, em caso de NOK informe o colaborador, informe a ação obrigatória (com fotos se desejar), revise e finalize.
+

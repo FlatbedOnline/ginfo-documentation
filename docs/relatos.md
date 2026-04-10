@@ -1,6 +1,5 @@
 # Relatos
 
-
 ## COMO REALZIAR RELATOS 2.0
 Para acesso gestor
 Acesse o aplicativo de checklist 
@@ -13,3 +12,7 @@ Acesse o aplicativo de checklist
 -  A ação realizada por você no momento em que indentificou o ato.
 Para finalizar clique em SALVAR O RELATO.
 Observação também é possível acessar relatos pelos qr code espalhados pela unidade.
+
+
+
+ 

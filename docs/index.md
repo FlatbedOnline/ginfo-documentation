@@ -18,6 +18,9 @@ Abaixo um simples tutorial de markdown.
 --- ← assim cria separação de linha
 
 [link](www.url.com) ← assim cria links clicaveis
+![imagem](www.url.com) ← assim cria imagens
+
+<br> ← assim quebra linhas.
 
 ```
 
