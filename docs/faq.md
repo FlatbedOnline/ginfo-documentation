@@ -111,3 +111,23 @@ Informe a senha com bases nos requisitos descritos em vermelho.
 Selecione alterar senha
 
 
+## Relatos 5 porquês 
+
+NFORMAÇÕES IMPORTANTES:
+Os 5 porquês só poderão ser realizados por TÉCNICOS
+DE SEGURANÇA DO TRABALHO, nenhuma outra função
+ou cargo está habilitado para realizar, ordem
+estabelecida pela AMBEV.
+Os porquês só estarão disponíveis para relatos
+classificados como INCIDENTE ou com SIF PERCURSOR
+Localizar a tela de RELATOS 2.0
+- SEGURANÇA > RELATÓRIOS > RELATOS 2.0
+Consulte nos filtros de pesquisa as informações que precisa para localizar o
+relato
+- Clique no botão azul de editar, ao lado do botão de impressão.
+- Após clicar no botão azul, esta é a tela que deve habilitar
+- Preencha a razão pelo qual o incidente ocorreu:
+- Informe até 5 porquês que levaram ao incidente
+- Informe o plano de ação, com base nos 5 porquês informados anteriormente e sua tratativa
+(PREVENTIVA OU CORRETIVA)
+Por fim, clique em salvar.
