@@ -150,3 +150,15 @@ se desejar e salve.
 Para realizar ou se certificar dos documentos que foram cadastrados, basta ir
 na aba LISTA.
 - Consultando com os filtros, aparecerão os dados do documento cadastrado.
+
+## COMO DESLIGAR COLABORADORES SIMPLES
+LOcalizar a tela
+- Para desligar colaboradores, localize a tela: 
+RH COLABORADORES > CADASTROS > COLABORADORES (SIMPLES)
+- Clique na aba LISTA 
+- Consulte os dados do colaborador que deseja desligar.
+- Clique no botão azul de RECISÃO
+Após clicar no botão de recisão, o sistema solicitará o preenchimento da data
+de desligamento para confirmar o processo. 
+- Basta preencher a data e clicar em confirma
+O sistema irá enviar uma mensagem de SUCESSO. Após isso, o colaborador não poderá mais acessar o sistema
