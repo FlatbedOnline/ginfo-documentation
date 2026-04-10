@@ -183,3 +183,21 @@ FROTA: Combustível > Movimentos > OS Combustível
 Preencha todas os campos obrigatórios e clique em salvar.
 Observação, pelo aplicativo pode ser lançada um tipo de abastecimento por vez. Pelo Ginfo você pode cadastrar mais de um tipo de produto
 Exemplo - Disel -Arla.
+
+## Ajuste de Aderência ARMAZÉM
+INFORMAÇÕES sobre o ajuste.
+Quando usar: 
+Se houver erro no horario ou marcação que o colaborador bateu o ponto, isso ocorre quando é importado os arquivo (AEJ/AFDT) com erro ou não tratado pelo RH.
+Motivo de usar: 
+Todos os ajustes podem ser feitos diretamente na tela caso ocorra um erro ele será corrigido e registrado automaticamente depois da analise e aprovação do time Ginfo juntamente a Ambev caso necessário, tornando o processo mais ágil e eficiente.
+- Entre no módulo: Frota: Checklist > Relatórios > Aderência
+Selecione a Aderência que pretende fazer o ajuste, esse ajuste esta liberado somente para empilhadeira e paleteira.
+- Selecione o equipamento que pretende fazer o ajuste.
+- Selecione o motivo do ajuste: As opções disponíveis são informadas abaixo, depois é obrigatório que anexe um comprovante (imagem ou PDF) com o ponto do colaborador para validação.
+- Exclusão do Registro: para excluir o colaborador da aderência
+- Ajuste de Horário: para colaboradores que apresentaram batidas incorretas.
+Avaliação da JUSTIFICATIVA
+O suporte terá a responsabilidade de aprovar ou reprovar a solicitação.
+- Se aprovado: o ajuste será realizado na tabela AFDT, com o responsável registrado.
+- Em caso de reprovação: o motivo será informado. Caso necessário, é importante validar se o procedimento deve ser feito diretamente na tela; no entanto, a informação também será enviada por e-mail.
+- Um e-mail será enviado automaticamente ao solicitante informando a decisão.
