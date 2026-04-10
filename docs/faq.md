@@ -172,3 +172,8 @@ Preencha filial e placa, após clique em consultar.
 Confira a data e clique no ícone laranja, para poder editar o KM.
 digite o Km em seguida clique no ícone verde, conforme imagem abaixo
 IMPORTANTE: É necessário ajustar TODOS os KMs que estiverem maior que o atual correto, não apenas o do dia atual, o sistema tem a opção de filtro de ORDENAÇÃO para facilitar, pode filtrar por KM, e aparecerá na ordem do maior para o menor.
+
+## Como cadastrar abastecimento no app checklist 
+- Após acessar o APP, utilizar o campo de Abastecidas
+- Preencher todos os campos, anexar um comprovante se necessário e após, salvar.
+Após preenchimento sistema vai gerar ordem de abastecimento, que pode estar disponível para ajuste e consulta no Ginfo.
