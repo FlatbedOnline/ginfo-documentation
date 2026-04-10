@@ -131,3 +131,22 @@ relato
 - Informe o plano de ação, com base nos 5 porquês informados anteriormente e sua tratativa
 (PREVENTIVA OU CORRETIVA)
 Por fim, clique em salvar.
+
+## Monitoramento de documentos 
+TIPOS DE DOCUMENTOS MONITORADOS: 
+Para realizar o monitoramento de documentos, é necessário cadastra-los na tela: 
+FROTA MANUTENÇÃO > CADASTROS > TIPOS DE DOCUMENTOS MONITORADOS
+- Nesta tela, basta informar o nome do documento, selecionar “SIM” no campo
+ativo e clicar em salvar.
+- Para monitorar os documentos cadastrados, localize a tela: FROTA MANUTENÇÃO > CADASTROS > MONITORAMENTO DOCUMENTOS
+- Após cadastrar os tipos de documento, é necessário realizar o cadastro de
+monitoramento.
+- Informe a empresa
+- Anexe o pdf do documento monitorado
+- Os tipos de documentos disponíveis serão os cadastrados anteriormente.
+- Informe a data de validade do documento
+- Adicione uma observação
+se desejar e salve. 
+Para realizar ou se certificar dos documentos que foram cadastrados, basta ir
+na aba LISTA.
+- Consultando com os filtros, aparecerão os dados do documento cadastrado.
