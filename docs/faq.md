@@ -162,3 +162,13 @@ Após clicar no botão de recisão, o sistema solicitará o preenchimento da dat
 de desligamento para confirmar o processo. 
 - Basta preencher a data e clicar em confirma
 O sistema irá enviar uma mensagem de SUCESSO. Após isso, o colaborador não poderá mais acessar o sistema
+
+## KM VEICULOS Como ajustar 
+Entre no módulo de Frota:
+- Frota: Documentação 
+- Movimentos 
+- Ajuste de KM
+Preencha filial e placa, após clique em consultar.
+Confira a data e clique no ícone laranja, para poder editar o KM.
+digite o Km em seguida clique no ícone verde, conforme imagem abaixo
+IMPORTANTE: É necessário ajustar TODOS os KMs que estiverem maior que o atual correto, não apenas o do dia atual, o sistema tem a opção de filtro de ORDENAÇÃO para facilitar, pode filtrar por KM, e aparecerá na ordem do maior para o menor.
