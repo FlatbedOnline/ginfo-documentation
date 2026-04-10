@@ -177,3 +177,9 @@ IMPORTANTE: É necessário ajustar TODOS os KMs que estiverem maior que o atual 
 - Após acessar o APP, utilizar o campo de Abastecidas
 - Preencher todos os campos, anexar um comprovante se necessário e após, salvar.
 Após preenchimento sistema vai gerar ordem de abastecimento, que pode estar disponível para ajuste e consulta no Ginfo.
+
+## Como gerar ordem de serviço de abastecimento 
+FROTA: Combustível > Movimentos > OS Combustível
+Preencha todas os campos obrigatórios e clique em salvar.
+Observação, pelo aplicativo pode ser lançada um tipo de abastecimento por vez. Pelo Ginfo você pode cadastrar mais de um tipo de produto
+Exemplo - Disel -Arla.
