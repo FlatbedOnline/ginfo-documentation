@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aplicativo-checklist.md",
+                "file": "blitz-de-trajeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aplicativo-checklist"
+              "title": "blitz-de-trajeto"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "aac30de1309df614",
   "lastOpenFiles": [
+    "aplicativo-checklist.md",
     "dto.md",
     "estoque.md",
     "faq.md",
@@ -204,7 +205,6 @@
     "relatos.md",
     "power-bi.md",
     "pneus.md",
-    "aplicativo-checklist.md",
     "blitz-de-trajeto.md",
     "disponibilidade.md",
     "terminal-de-oficina.md",
