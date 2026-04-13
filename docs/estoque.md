@@ -14,15 +14,15 @@ Acesse Estoque para liberar os tamanhos desejados. À direita ficam os itens dis
 - Para remover, clique no ícone vermelho e o tamanho será retirado da
 filial.
 
-## CADASTRO DE ITENS DE EPI COMO REALIZAR
-
-Acesse Estoque para liberar os tamanhos desejados.
-
-- À direita ficam os itens disponíveis e à esquerda, os já liberados.
-
-- Para liberar para a Filial, Informe mínimo e máximo e clique em Adicionar.
-
-- Para remover, clique no ícone vermelho e o tamanho será retirado da FILAL
+## Cadastro de Itens de EPI  
+  
+Acesse Estoque para liberar os tamanhos desejados.  
+  
+À direita ficam os itens disponíveis e à esquerda os já liberados.  
+  
+Para liberar para a filial, informe mínimo e máximo e clique em Adicionar.  
+  
+Para remover, clique no ícone vermelho para retirar o tamanho da filial.
 
 
 ## Inventário de EPI AMBEV pelo GINFO  
