@@ -244,3 +244,27 @@ Na tela de anexos, é possível incluir fotos, documentos, preventivas e ordens 
   
 Devolução de veículo:  
 Localize o veículo, selecione o ícone azul, preencha as informações solicitadas e clique em salvar.
+
+## Aprovação de O.S Pendente  
+  
+Entre no módulo:  
+  
+Frota: Manutenção > Movimentos > OS Conectada  
+  
+Aprovação e reprovação de ordem de serviço:  
+- Clique em Pendências e selecione o tipo desejado  
+- Para aprovar, confirme as informações e preencha os dados necessários  
+- Para reprovar, clique no ícone vermelho, informe o motivo e salve  
+  
+Quando a OS for referente à troca de pneus, a manutenção deve ser realizada pelo sistema.  
+  
+Tipo de pendência - Aguardando cancelamento:  
+- Aprovar: ícone verde, justificar e salvar  
+- Reprovar: ícone vermelho  
+- O status ficará como OS reaberta  
+  
+Tipo de pendência - Externas aguardando aprovação:  
+- Clique no ícone azul  
+- Clique em editar para conferência das informações e realize o encerramento da OS externa  
+- Os valores de serviço e materiais devem ser iguais ao valor total  
+- Caso não haja valores, marcar a opção OS sem valor na edição da OS e salvar
