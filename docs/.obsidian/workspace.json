@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dto.md",
+                "file": "aplicativo-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dto"
+              "title": "aplicativo-checklist"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "aac30de1309df614",
   "lastOpenFiles": [
+    "dto.md",
     "estoque.md",
     "faq.md",
     "index.md",
@@ -207,7 +208,6 @@
     "blitz-de-trajeto.md",
     "disponibilidade.md",
     "terminal-de-oficina.md",
-    "dto.md",
     "Pneus.md",
     "2026-03-18.md",
     "Sem título.canvas"
