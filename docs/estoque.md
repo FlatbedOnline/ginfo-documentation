@@ -1,5 +1,11 @@
 # Estoque
 
+## Cadastro de EPI  
+  
+No GINFO, localize o módulo Segurança: EPI.  
+  
+Clique em Cadastro de Itens, preencha as informações e salve.
+
 ## CADASTRO DE EPI COMO REALIZAR
 
 No , GINFO, Localize o módulo de Seg: epi,
