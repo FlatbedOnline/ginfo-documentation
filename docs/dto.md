@@ -17,9 +17,8 @@ Acesse o aplicativo de checklist e siga o passo a passo:
 - Informe a ação a ser realizada (obrigatório) e adicione fotos se desejar  
 - Revise as respostas e finalize
 
-# Como realizar DTO
-
-## Pergunta principal
-
-Acesse o aplicativo de checklist e siga o passo a passo: localize o módulo de segurança, selecione o DTO, clique em REALIZAR DTO, escolha o DTO desejado, selecione filial, grupo DTO e tipo de DTO, adicione até 3 colaboradores no “+”, inicie, marque OK ou NOK, em caso de NOK informe o colaborador, informe a ação obrigatória (com fotos se desejar), revise e finalize.
-
+## Como realizar DTO  
+  
+Acesse o aplicativo de checklist e siga o passo a passo:  
+  
+Localize o módulo Segurança, selecione DTO, clique em Realizar DTO, escolha o DTO desejado, selecione filial, grupo DTO e tipo de DTO, adicione até 3 colaboradores no “+”, clique em iniciar, marque OK ou NOK, em caso de NOK informe o colaborador, informe a ação obrigatória (com fotos se desejar), revise e finalize.
