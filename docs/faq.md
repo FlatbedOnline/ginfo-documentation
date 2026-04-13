@@ -201,3 +201,28 @@ O suporte terá a responsabilidade de aprovar ou reprovar a solicitação.
 - Se aprovado: o ajuste será realizado na tabela AFDT, com o responsável registrado.
 - Em caso de reprovação: o motivo será informado. Caso necessário, é importante validar se o procedimento deve ser feito diretamente na tela; no entanto, a informação também será enviada por e-mail.
 - Um e-mail será enviado automaticamente ao solicitante informando a decisão.
+
+## Aderência Checklist  
+  
+Entre no módulo de CheckList:  
+  
+Frota: CheckList > Movimentos > Importar 03.11.20  
+  
+Instruções para importação de arquivo:  
+- Acesse o módulo de importação no sistema  
+- Selecione a filial desejada  
+- Escolha o arquivo  
+- Clique em importar  
+  
+Após a conclusão, será exibida uma mensagem com o total de registros processados e os importados com sucesso.  
+  
+Na aba de histórico, é possível visualizar a importação do 03.11.20 por filial, incluindo data e hora da atualização.  
+  
+Para consultar a aderência:  
+Frota: CheckList > Relatórios > Aderência  
+  
+Na aba de veículos, ao informar o período, o sistema extrai automaticamente as informações.  
+  
+Checklist fora do prazo pode ser justificado pelo ícone vermelho ou verde.  
+  
+É possível gerar em Excel para visualização detalhada, incluindo horário de saída ou entrada no Promax.
