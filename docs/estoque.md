@@ -24,20 +24,24 @@ Acesse Estoque para liberar os tamanhos desejados.
 
 - Para remover, clique no ícone vermelho e o tamanho será retirado da FILAL
 
-## Inventario de EPI AMBEV , pelo GINFO
-Localize o módulo de Segurança,
-- Clique em movimentos
-- Clique em Inventário epi
-Contagem de epi pelo ginfo
-- Selecione a filial desejada
-- Informe a data de extração do arquivo com os itens do SAP
--  Clique em Iniciar Inventário para começar o processo.
-- Anexe o arquivo que contem os itens do inventário
-- Clique em avançar etapa.
-- Efetuei a contagem dos itens, informando a quantidade no campo contagem
-- Após todos os itens serem adicionados e contados, clique em Avançar etapa
-Após a contagem, analise as divergências identificadas, escolha uma das opções
-disponíveis:
--Justificar a discrepância
-- Realizar a recontagem
-Ao realizar os ajustes, clique em avançar etapa.
+
+## Inventário de EPI AMBEV pelo GINFO  
+  
+Localize o módulo Segurança:  
+- Clique em Movimentos  
+- Clique em Inventário EPI  
+  
+Contagem de EPI pelo GINFO:  
+- Selecione a filial  
+- Informe a data de extração do arquivo do SAP  
+- Clique em Iniciar Inventário  
+- Anexe o arquivo com os itens  
+- Clique em Avançar etapa  
+- Realize a contagem informando as quantidades  
+- Após finalizar, clique em Avançar etapa  
+  
+Após a contagem, analise as divergências:  
+- Justificar a discrepância  
+- Realizar recontagem  
+  
+Após os ajustes, clique em Avançar etapa.

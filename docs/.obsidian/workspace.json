@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faq.md",
+                "file": "estoque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faq"
+              "title": "estoque"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "aac30de1309df614",
   "lastOpenFiles": [
-    "index.md",
     "faq.md",
+    "index.md",
     "stresstest.md",
     "relatos.md",
     "power-bi.md",
