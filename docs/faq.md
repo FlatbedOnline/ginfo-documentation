@@ -226,3 +226,21 @@ Na aba de veículos, ao informar o período, o sistema extrai automaticamente as
 Checklist fora do prazo pode ser justificado pelo ícone vermelho ou verde.  
   
 É possível gerar em Excel para visualização detalhada, incluindo horário de saída ou entrada no Promax.
+
+## Aluguéis de Placas  
+  
+Entre no módulo de Frota:  
+  
+Frota: Documentação > Movimentos > Aluguel/transf. empres  
+  
+Na aba Cadastros, preencha as informações necessárias e clique em salvar.  
+  
+Aprovação de solicitações:  
+- Na aba Lista Alugados, é possível aprovar (ícone verde) ou reprovar (ícone vermelho, com edição no ícone laranja)  
+  
+A aprovação é realizada pela filial que receberá o veículo.  
+  
+Na tela de anexos, é possível incluir fotos, documentos, preventivas e ordens de serviço, preenchendo as informações e consultando.  
+  
+Devolução de veículo:  
+Localize o veículo, selecione o ícone azul, preencha as informações solicitadas e clique em salvar.
