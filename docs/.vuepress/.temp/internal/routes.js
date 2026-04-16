@@ -2,8 +2,8 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/aplicativo-checklist.html", { loader: () => import(/* webpackChunkName: "aplicativo-checklist.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/aplicativo-checklist.html.js"), meta: {"title":"Aplicativo Checklist"} }],
-  ["/blitz-de-trajeto.html", { loader: () => import(/* webpackChunkName: "blitz-de-trajeto.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/blitz-de-trajeto.html.js"), meta: {"title":"Blitz de Trajeto"} }],
-  ["/disponibilidade.html", { loader: () => import(/* webpackChunkName: "disponibilidade.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/disponibilidade.html.js"), meta: {"title":"Regra Disponibilidade"} }],
+  ["/blitz-de-trajeto.html", { loader: () => import(/* webpackChunkName: "blitz-de-trajeto.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/blitz-de-trajeto.html.js"), meta: {"title":""} }],
+  ["/disponibilidade.html", { loader: () => import(/* webpackChunkName: "disponibilidade.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/disponibilidade.html.js"), meta: {"title":"Disponibilidade"} }],
   ["/dto.html", { loader: () => import(/* webpackChunkName: "dto.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/dto.html.js"), meta: {"title":"DTO"} }],
   ["/estoque.html", { loader: () => import(/* webpackChunkName: "estoque.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/estoque.html.js"), meta: {"title":"Estoque"} }],
   ["/faq.html", { loader: () => import(/* webpackChunkName: "faq.html" */"/home/carlos-eduardo/Documents/ginfo-documentation/docs/.vuepress/.temp/pages/faq.html.js"), meta: {"title":"Perguntas frequentes"} }],

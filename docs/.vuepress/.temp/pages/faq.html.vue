@@ -182,6 +182,58 @@ O suporte terá a responsabilidade de aprovar ou reprovar a solicitação.</li>
 <li>Em caso de reprovação: o motivo será informado. Caso necessário, é importante validar se o procedimento deve ser feito diretamente na tela; no entanto, a informação também será enviada por e-mail.</li>
 <li>Um e-mail será enviado automaticamente ao solicitante informando a decisão.</li>
 </ul>
+<h2 id="aderencia-checklist" tabindex="-1"><a class="header-anchor" href="#aderencia-checklist"><span>Aderência Checklist</span></a></h2>
+<p>Entre no módulo de CheckList:</p>
+<p>Frota: CheckList &gt; Movimentos &gt; Importar 03.11.20</p>
+<p>Instruções para importação de arquivo:</p>
+<ul>
+<li>Acesse o módulo de importação no sistema</li>
+<li>Selecione a filial desejada</li>
+<li>Escolha o arquivo</li>
+<li>Clique em importar</li>
+</ul>
+<p>Após a conclusão, será exibida uma mensagem com o total de registros processados e os importados com sucesso.</p>
+<p>Na aba de histórico, é possível visualizar a importação do 03.11.20 por filial, incluindo data e hora da atualização.</p>
+<p>Para consultar a aderência:<br>
+Frota: CheckList &gt; Relatórios &gt; Aderência</p>
+<p>Na aba de veículos, ao informar o período, o sistema extrai automaticamente as informações.</p>
+<p>Checklist fora do prazo pode ser justificado pelo ícone vermelho ou verde.</p>
+<p>É possível gerar em Excel para visualização detalhada, incluindo horário de saída ou entrada no Promax.</p>
+<h2 id="alugueis-de-placas" tabindex="-1"><a class="header-anchor" href="#alugueis-de-placas"><span>Aluguéis de Placas</span></a></h2>
+<p>Entre no módulo de Frota:</p>
+<p>Frota: Documentação &gt; Movimentos &gt; Aluguel/transf. empres</p>
+<p>Na aba Cadastros, preencha as informações necessárias e clique em salvar.</p>
+<p>Aprovação de solicitações:</p>
+<ul>
+<li>Na aba Lista Alugados, é possível aprovar (ícone verde) ou reprovar (ícone vermelho, com edição no ícone laranja)</li>
+</ul>
+<p>A aprovação é realizada pela filial que receberá o veículo.</p>
+<p>Na tela de anexos, é possível incluir fotos, documentos, preventivas e ordens de serviço, preenchendo as informações e consultando.</p>
+<p>Devolução de veículo:<br>
+Localize o veículo, selecione o ícone azul, preencha as informações solicitadas e clique em salvar.</p>
+<h2 id="aprovacao-de-o-s-pendente" tabindex="-1"><a class="header-anchor" href="#aprovacao-de-o-s-pendente"><span>Aprovação de O.S Pendente</span></a></h2>
+<p>Entre no módulo:</p>
+<p>Frota: Manutenção &gt; Movimentos &gt; OS Conectada</p>
+<p>Aprovação e reprovação de ordem de serviço:</p>
+<ul>
+<li>Clique em Pendências e selecione o tipo desejado</li>
+<li>Para aprovar, confirme as informações e preencha os dados necessários</li>
+<li>Para reprovar, clique no ícone vermelho, informe o motivo e salve</li>
+</ul>
+<p>Quando a OS for referente à troca de pneus, a manutenção deve ser realizada pelo sistema.</p>
+<p>Tipo de pendência - Aguardando cancelamento:</p>
+<ul>
+<li>Aprovar: ícone verde, justificar e salvar</li>
+<li>Reprovar: ícone vermelho</li>
+<li>O status ficará como OS reaberta</li>
+</ul>
+<p>Tipo de pendência - Externas aguardando aprovação:</p>
+<ul>
+<li>Clique no ícone azul</li>
+<li>Clique em editar para conferência das informações e realize o encerramento da OS externa</li>
+<li>Os valores de serviço e materiais devem ser iguais ao valor total</li>
+<li>Caso não haja valores, marcar a opção OS sem valor na edição da OS e salvar</li>
+</ul>
 </div></template>
 
 

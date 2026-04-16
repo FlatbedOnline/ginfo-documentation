@@ -1,47 +1,28 @@
-<template><div><h1 id="blitz-de-trajeto" tabindex="-1"><a class="header-anchor" href="#blitz-de-trajeto"><span>Blitz de Trajeto</span></a></h1>
-<h2 id="como-atualizar-vizualizar-blitz-de-trajeto-ginfo" tabindex="-1"><a class="header-anchor" href="#como-atualizar-vizualizar-blitz-de-trajeto-ginfo"><span>COMO ATUALIZAR VIZUALIZAR BLITZ DE TRAJETO GINFO</span></a></h2>
-<p>Antes de realizar a blitz de trajeto, é necessário verificar se os colaboradores
-estão cadastrados, (RH COLABORADORES &gt; CADASTROS &gt; COLABORADORES
-(SIMPLES). Caso contrário, o nome dos colaboradores não estará disponível no
-aplicativo - Depois de verificar o cadastro, é necessário cadastrar o modal dos colaboradores. Esse cadastro pode ser realizado em um dos caminhos abaixo:
-RH Colaboradores &gt; Cadastros &gt; Colaboradores Simples, na aba CNH/Blitz
-Segurança &gt; Cadastros &gt; CNH/Blitz de Trajeto.
-RH COLABORADORES &gt; CADASTROS &gt; COLABORADORES SIMPLES
-Consulte em lista o colaborador, clique em editar e após isso cliente em CNH/BLITZ.
-SEGURANÇA &gt; CADASTROS &gt; CNH/BLITZ DE TRAJETO
-Após acessar, clique em Formulário e preencha os dados da CNH e a placa do
-veículo.</p>
-<h2 id="blitz-de-trajeto-no-aplicativo-checklist" tabindex="-1"><a class="header-anchor" href="#blitz-de-trajeto-no-aplicativo-checklist"><span>BLITZ DE TRAJETO NO APLICATIVO CHECKLIST</span></a></h2>
-<p>Para realizar a blitz de trajeto é necessário abrir o aplicativo de checklist, disponível
-na google play ou app store.
-<a href="https://play.google.com/store/apps/details?id=br.com.inovess.ginfochecklistnew" target="_blank" rel="noopener noreferrer">App Android</a>
-<a href="https://apps.apple.com/br/app/ginfo-checklist/id6475606104-" target="_blank" rel="noopener noreferrer">App IOS</a>
-O app deve ser acessado com os dados de:
-Empresa
-Matrícula
-CPF
-NO APLICATIVO - Localize o módulo de segurança - Selecione blitz trajeto - selecione REALIZAR BLITZ DE TRAJETO
-Selecione a empresa em que você atua,A filial/unidade correta,
-e logo abaixo deve puxar a lista de colaboradores cadastrados na unidade e empresa referida.
-Para realizar blitz de trajeto em colaboradores AMBEV, deve selecionar empresa ambev e a filial da transportadora em que atuam. Se os colaboradores não aparecerem, verifique na tela RH COLABORADORES se estão cadastrados e se o modal foi informado.</p>
+<template><div><h2 id="blitz-de-trajeto" tabindex="-1"><a class="header-anchor" href="#blitz-de-trajeto"><span>Blitz de Trajeto</span></a></h2>
+<p>Antes de realizar a blitz de trajeto, verifique se os colaboradores estão cadastrados em:<br>
+RH Colaboradores &gt; Cadastros &gt; Colaboradores (Simples)</p>
+<p>Caso não estejam, os nomes não aparecerão no aplicativo.</p>
+<p>Após isso, cadastre o modal dos colaboradores em um dos caminhos:</p>
 <ul>
-<li>Selecione o colabordor
-para realizar a blitz</li>
-<li>Verifique se a placa está
-correta. Se não estiver, clique em editar e
-ajuste.Inicie o checklist.</li>
-<li>Realize o checklist informando ok ou nok para as perguntas</li>
-<li>Em caso de nok, a
-observação deve ser
-informada detalhando
-o problema.</li>
-<li>Revise as
-respostas</li>
-<li>Após as perguntas,
-se desejar adicione
-fotos e observação.</li>
-<li>Finalize</li>
+<li>RH Colaboradores &gt; Cadastros &gt; Colaboradores Simples, aba CNH/Blitz</li>
+<li>Segurança &gt; Cadastros &gt; CNH/Blitz de Trajeto</li>
 </ul>
+<p>No caminho RH Colaboradores:<br>
+Consulte o colaborador, clique em editar e acesse CNH/Blitz.</p>
+<p>No caminho Segurança:<br>
+Acesse CNH/Blitz de Trajeto, clique em Formulário e preencha os dados da CNH e a placa do veículo.</p>
+<h2 id="blitz-de-trajeto-no-aplicativo-checklist" tabindex="-1"><a class="header-anchor" href="#blitz-de-trajeto-no-aplicativo-checklist"><span>Blitz de Trajeto no Aplicativo Checklist</span></a></h2>
+<p>Para realizar a blitz de trajeto, acesse o aplicativo de checklist:<br>
+<a href="https://play.google.com/store/apps/details?id=br.com.inovess.ginfochecklistnew" target="_blank" rel="noopener noreferrer">App Android</a><br>
+<a href="https://apps.apple.com/br/app/ginfo-checklist/id6475606104-" target="_blank" rel="noopener noreferrer">App IOS</a></p>
+<p>Acesse com:<br>
+Empresa, Matrícula e CPF.</p>
+<p>No aplicativo, localize o módulo Segurança, selecione Blitz de Trajeto e clique em Realizar Blitz de Trajeto.</p>
+<p>Selecione a empresa e a filial/unidade. A lista de colaboradores cadastrados será exibida.</p>
+<p>Para colaboradores AMBEV, selecione a empresa Ambev e a filial da transportadora. Caso não apareçam, verifique o cadastro em RH Colaboradores e o modal informado.</p>
+<p>Selecione o colaborador, verifique a placa e edite se necessário. Inicie o checklist.</p>
+<p>Informe OK ou NOK para as perguntas. Em caso de NOK, descreva o problema.</p>
+<p>Revise as respostas, adicione fotos e observações se necessário e finalize.</p>
 </div></template>
 
 

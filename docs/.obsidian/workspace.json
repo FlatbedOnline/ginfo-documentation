@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "estoque.md",
+                "file": "aplicativo-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "estoque"
+              "title": "aplicativo-checklist"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -184,30 +184,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "aac30de1309df614",
   "lastOpenFiles": [
+    "stresstest.md",
+    "terminal-de-oficina.md",
+    "faq.md",
     "dto.md",
+    "estoque.md",
     "disponibilidade.md",
     "blitz-de-trajeto.md",
     "aplicativo-checklist.md",
-    "estoque.md",
-    "faq.md",
     "index.md",
-    "stresstest.md",
     "relatos.md",
     "power-bi.md",
     "pneus.md",
-    "terminal-de-oficina.md",
     "Pneus.md",
     "2026-03-18.md",
     "Sem título.canvas"

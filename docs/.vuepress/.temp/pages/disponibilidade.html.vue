@@ -1,25 +1,40 @@
-<template><div><h1 id="regra-disponibilidade" tabindex="-1"><a class="header-anchor" href="#regra-disponibilidade"><span>Regra Disponibilidade</span></a></h1>
+<template><div><h1 id="disponibilidade" tabindex="-1"><a class="header-anchor" href="#disponibilidade"><span>Disponibilidade</span></a></h1>
+<h2 id="regra-disponibilidade" tabindex="-1"><a class="header-anchor" href="#regra-disponibilidade"><span>Regra Disponibilidade</span></a></h2>
 <ul>
-<li>
-<p>Por padrão, todo veículo é considerado <strong>ativo todos os dias</strong>, exceto domingo.</p>
-</li>
-<li>
-<p>Caso o veículo <strong>não atinja o Stresstest</strong> (mínimo de 2 saídas), é feito <strong>desconto do mês inteiro</strong>.</p>
-</li>
-<li>
-<p>Caso o veículo <strong>atinja o stresstest</strong>:</p>
+<li>Por padrão, todo veículo é considerado ativo todos os dias, exceto domingo.</li>
+<li>Caso o veículo não atinja o stresstest (mínimo de 2 saídas), ocorre desconto do mês inteiro.</li>
+<li>Caso o veículo atinja o stresstest:</li>
+<li>Para cada dia sem telemetria, ocorre desconto do dia inteiro.</li>
+</ul>
+<p>Se o veículo atinge o stresstest e possui telemetria, é verificada a existência de Ordem de Serviço (OS):</p>
 <ul>
-<li>Para cada dia <strong>sem telemetria</strong> (sem sinal do rastreador), é feito <strong>desconto do dia inteiro</strong>.</li>
+<li>OS Imediata: desconto da abertura até o fechamento; se estiver aberta, o desconto continua até a finalização.</li>
+<li>Outros tipos de OS: desconto do início do atendimento até a finalização.</li>
 </ul>
-</li>
-<li>
-<p>Se o veículo <strong>atinge o stresstest e possui telemetria</strong>, então é verificada a existência de <strong>Ordem de Serviço (OS)</strong>:</p>
+<h2 id="regra-de-indisponibilidade-manutencao-veiculo" tabindex="-1"><a class="header-anchor" href="#regra-de-indisponibilidade-manutencao-veiculo"><span>Regra de indisponibilidade manutenção veículo</span></a></h2>
+<p>Status:</p>
 <ul>
-<li><strong>OS Imediata</strong>: desconto ocorre <strong>da abertura até o fechamento</strong>. Se ainda estiver aberta, o desconto continua até a finalização.</li>
-<li><strong>Outros tipos de OS</strong>: desconto ocorre <strong>do início do atendimento (quando o mecânico começa)</strong> até a finalização.</li>
+<li>Ativos: veículos ativos no sistema FT</li>
+<li>Inativos: veículos inativos no sistema FT</li>
+<li>NA: veículos não estão no FT</li>
 </ul>
-</li>
+<p>Saída:
+Quantidade de saídas no 2ART ou S4</p>
+<p>Stress Teste:
+Se não teve 2 saídas no 2ART ou S4, fica indisponível</p>
+<p>Horas em manutenção:</p>
+<ul>
+<li>Período em que o veículo ficou em manutenção (início até fim), descontando tempo de pausa</li>
+<li>OS imediata: da data de criação até o encerramento</li>
 </ul>
+<p>Dias sem telemétrica:
+Dias em que o veículo ficou sem posição do rastreador</p>
+<p>Indisponibilidade total:
+Total de horas indisponível dividido pelo total de horas (não contando o documento)</p>
+<p>Indisponibilidade contratada:
+Mesmo cálculo da indisponibilidade total, considerando apenas veículos do FT</p>
+<p>Indisponibilidade perfil ativo:
+Mesmo cálculo da indisponibilidade total, considerando apenas veículos ativos no FT</p>
 </div></template>
 
 
