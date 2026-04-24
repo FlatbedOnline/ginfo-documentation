@@ -282,3 +282,13 @@ Importante: antes de cadastrar o modelo, a marca deve estar cadastrada.
 Acesse o módulo FROTA: DOCUMENTAÇÃO > PARÂMETROS > MARCAS VEÍCULOS.  
   
 Clique em cadastro, informe a marca e, em seguida, clique em SALVAR.
+
+## Importação de colaboradores, fornecedores e veículos pelo Ginfo  
+  
+Acesse o módulo ADM: IMPORTAÇÕES > CADASTROS e localize o desejado.  
+  
+Informe a filial, clique em escolher arquivo e depois em IMPORTAR.  
+  
+Se houver itens em destaque na cor vermelha, corrija. No canto lateral direito há a opção de excluir.  
+  
+Estando tudo correto, clique em ATUALIZAR/CONFIRMAR DADOS e, em seguida, em importar.
