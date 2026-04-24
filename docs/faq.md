@@ -276,3 +276,9 @@ Acesse o módulo FROTA: DOCUMENTAÇÃO > PARÂMETROS > MODELOS VEÍCULOS.
 Clique em cadastro, informe o modelo e vincule a marca. Em seguida, clique em SALVAR.  
   
 Importante: antes de cadastrar o modelo, a marca deve estar cadastrada.
+
+## Cadastro de marca de veículos  
+  
+Acesse o módulo FROTA: DOCUMENTAÇÃO > PARÂMETROS > MARCAS VEÍCULOS.  
+  
+Clique em cadastro, informe a marca e, em seguida, clique em SALVAR.
