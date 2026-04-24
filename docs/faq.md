@@ -268,3 +268,11 @@ Tipo de pendência - Externas aguardando aprovação:
 - Clique em editar para conferência das informações e realize o encerramento da OS externa  
 - Os valores de serviço e materiais devem ser iguais ao valor total  
 - Caso não haja valores, marcar a opção OS sem valor na edição da OS e salvar
+
+## Cadastro de modelo de veículos  
+  
+Acesse o módulo FROTA: DOCUMENTAÇÃO > PARÂMETROS > MODELOS VEÍCULOS.  
+  
+Clique em cadastro, informe o modelo e vincule a marca. Em seguida, clique em SALVAR.  
+  
+Importante: antes de cadastrar o modelo, a marca deve estar cadastrada.
