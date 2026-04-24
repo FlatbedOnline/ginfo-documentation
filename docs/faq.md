@@ -292,3 +292,9 @@ Informe a filial, clique em escolher arquivo e depois em IMPORTAR.
 Se houver itens em destaque na cor vermelha, corrija. No canto lateral direito há a opção de excluir.  
   
 Estando tudo correto, clique em ATUALIZAR/CONFIRMAR DADOS e, em seguida, em importar.
+
+## Localizar empresa e filial no Ginfo  
+  
+Para empresa: acesse ADMINISTRAÇÃO > PARÂMETROS > EMPRESAS, clique em LISTA e depois em consultar.  
+  
+Para filial: acesse ADMINISTRAÇÃO > PARÂMETROS > FILIAIS, clique em LISTA, informe o nome desejado e clique em consultar. Há a opção de filtrar por empresa para facilitar a localização.
