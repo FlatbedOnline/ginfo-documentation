@@ -21,6 +21,7 @@
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Caso a especificação acima não seja suficiente, você pode <a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open" target="_blank" rel="noopener noreferrer">clicar aqui</a> para ver um tutorial mais bem detalhado!</p>
 <hr>
+<p>Temos uma série de scripts úteis para o Ginfo na nossa navbar em &quot;Scripts Utilitários&quot;</p>
 <p>Qualquer dúvida, entre em contato com: <code v-pre>carlos.eduardo@i9ss.com.br</code></p>
 </div></template>
 

@@ -234,6 +234,21 @@ Localize o veículo, selecione o ícone azul, preencha as informações solicita
 <li>Os valores de serviço e materiais devem ser iguais ao valor total</li>
 <li>Caso não haja valores, marcar a opção OS sem valor na edição da OS e salvar</li>
 </ul>
+<h2 id="cadastro-de-modelo-de-veiculos" tabindex="-1"><a class="header-anchor" href="#cadastro-de-modelo-de-veiculos"><span>Cadastro de modelo de veículos</span></a></h2>
+<p>Acesse o módulo FROTA: DOCUMENTAÇÃO &gt; PARÂMETROS &gt; MODELOS VEÍCULOS.</p>
+<p>Clique em cadastro, informe o modelo e vincule a marca. Em seguida, clique em SALVAR.</p>
+<p>Importante: antes de cadastrar o modelo, a marca deve estar cadastrada.</p>
+<h2 id="cadastro-de-marca-de-veiculos" tabindex="-1"><a class="header-anchor" href="#cadastro-de-marca-de-veiculos"><span>Cadastro de marca de veículos</span></a></h2>
+<p>Acesse o módulo FROTA: DOCUMENTAÇÃO &gt; PARÂMETROS &gt; MARCAS VEÍCULOS.</p>
+<p>Clique em cadastro, informe a marca e, em seguida, clique em SALVAR.</p>
+<h2 id="importacao-de-colaboradores-fornecedores-e-veiculos-pelo-ginfo" tabindex="-1"><a class="header-anchor" href="#importacao-de-colaboradores-fornecedores-e-veiculos-pelo-ginfo"><span>Importação de colaboradores, fornecedores e veículos pelo Ginfo</span></a></h2>
+<p>Acesse o módulo ADM: IMPORTAÇÕES &gt; CADASTROS e localize o desejado.</p>
+<p>Informe a filial, clique em escolher arquivo e depois em IMPORTAR.</p>
+<p>Se houver itens em destaque na cor vermelha, corrija. No canto lateral direito há a opção de excluir.</p>
+<p>Estando tudo correto, clique em ATUALIZAR/CONFIRMAR DADOS e, em seguida, em importar.</p>
+<h2 id="localizar-empresa-e-filial-no-ginfo" tabindex="-1"><a class="header-anchor" href="#localizar-empresa-e-filial-no-ginfo"><span>Localizar empresa e filial no Ginfo</span></a></h2>
+<p>Para empresa: acesse ADMINISTRAÇÃO &gt; PARÂMETROS &gt; EMPRESAS, clique em LISTA e depois em consultar.</p>
+<p>Para filial: acesse ADMINISTRAÇÃO &gt; PARÂMETROS &gt; FILIAIS, clique em LISTA, informe o nome desejado e clique em consultar. Há a opção de filtrar por empresa para facilitar a localização.</p>
 </div></template>
 
 

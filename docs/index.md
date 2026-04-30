@@ -28,5 +28,7 @@ Caso a especificação acima não seja suficiente, você pode [clicar aqui](http
 
 ---
 
+Temos uma série de scripts úteis para o Ginfo na nossa navbar em "Scripts Utilitários"
+
 Qualquer dúvida, entre em contato com: `carlos.eduardo@i9ss.com.br`
 
