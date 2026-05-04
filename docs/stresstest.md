@@ -2,6 +2,9 @@
 
 Aqui será armazenado todas as informações pertinentes ao Stress test.
 
+> **Lembrete**<br>
+> Tudo relacionado a stress test deve ser tratado por e-mail. E somente com acompanhamento da gerência do Ginfo.
+
 ## Regras para utilização de placa reserva no Stress Test dos veículos
 
 O veículo não pode estar no FT, independente da filial onde esteja alocado.<br>
