@@ -308,3 +308,15 @@ Equipes
 Informe a filial e descreva o nome da equipe no campo DESCRIÇÃO.  
   
 Clique em SALVAR.
+
+## Como liberar ou criar função  
+  
+RH Colaboradores  
+Cadastros  
+Funções  
+  
+Antes de cadastrar uma nova função, verifique se já existe uma criada clicando em LISTA.  
+  
+Caso precise criar uma nova, preencha todos os campos obrigatórios e clique em SALVAR.  
+  
+Para habilitar a função para a filial, clique em PADRÕES, selecione a filial e clique em ADICIONAR.
