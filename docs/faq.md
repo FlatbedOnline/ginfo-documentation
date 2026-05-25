@@ -298,3 +298,13 @@ Estando tudo correto, clique em ATUALIZAR/CONFIRMAR DADOS e, em seguida, em impo
 Para empresa: acesse ADMINISTRAÇÃO > PARÂMETROS > EMPRESAS, clique em LISTA e depois em consultar.  
   
 Para filial: acesse ADMINISTRAÇÃO > PARÂMETROS > FILIAIS, clique em LISTA, informe o nome desejado e clique em consultar. Há a opção de filtrar por empresa para facilitar a localização.
+
+## Como cadastrar equipes  
+  
+RH Colaboradores  
+Cadastros  
+Equipes  
+  
+Informe a filial e descreva o nome da equipe no campo DESCRIÇÃO.  
+  
+Clique em SALVAR.
